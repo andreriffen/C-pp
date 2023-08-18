@@ -1,0 +1,32 @@
+# reform
+
+- ExerciciosC-main
+  - ExerciciosC-main.zip
+  - ExerciciosC-main
+    - exercicios_em_c++
+      - C++
+        - 5numerospares.por
+        - exercicio5.por
+        - Jogadores.por
+        - problema (1).por
+        - problema.por
+        - REPETICAO_PAR_IMPAR.por
+        - Soma_maior.por
+        - TABUADA.por
+      - C++
+        - celsiusfahrenheit.cpp
+        - celsiusfahrenheit.exe
+        - cilindro.cpp
+        - cilindro.exe
+        - func.cpp
+        - func.exe
+        - Hello World.exe
+        - idade.cpp
+        - jokenpo.cpp
+        - jokenpo.exe
+        - maiornumero.cpp
+        - maiornumero.exe
+        - media.cpp
+        - media.exe
+        - soma.cpp
+        - soma.exe

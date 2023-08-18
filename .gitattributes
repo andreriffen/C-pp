@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Auto detect text files and perform LF normalization for C++ and Portugol files
+*.cpp text eol=lf
+*.por text eol=lf
+
+# Treat executables as binary files
+*.exe binary
+
+# Exclude specific directories from normalization
+/ExerciciosC-main/ExerciciosC-main.zip binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/ binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/celsiusfahrenheit.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/cilindro.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/func.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/Hello\ World.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/jokenpo.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/maiornumero.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/media.exe binary
+/ExerciciosC-main/ExerciciosC-main/exercicios_em_c++/C++/soma.exe binary
